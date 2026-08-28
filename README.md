@@ -4,7 +4,6 @@
 
 
 # ESP32-First-Project
-Smartwatch project
 
 
 Microcontroller: TTGO T-Display (ESP32) 
