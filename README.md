@@ -3,3 +3,11 @@
 <img width="791" height="522" alt="Screenshot 2026-08-27 at 11 42 32 PM" src="https://github.com/user-attachments/assets/d2a6e37b-b09e-4d20-9a8d-45fdd198904f" />
 # ESP32-First-Project
 Smartwatch project
+
+Microcontroller: TTGO T-Display (ESP32) 
+
+Real-Time Clock: DS3231 RTC Module 
+
+Power & Safety: 3.7V LiPo battery with built-in BMS + secondary TP4056 charge protection & slide switch 
+
+Peripherals: Dual tactile push buttons, laser module, ultra-bright LED flashlight
